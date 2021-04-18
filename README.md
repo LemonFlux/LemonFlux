@@ -9,7 +9,7 @@
 
 - 👯 I love to work with **@LocalsGitHub**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python programming questions**
 
 - 📫 How to reach me **owen@owen.lol**
 
