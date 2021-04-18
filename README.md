@@ -9,10 +9,10 @@
 🌱 I’m currently learning C#
 </p>
 <p align="center">
-👯 I love to work with **@LocalsGitHub**
+👯 I love to work with @LocalsGitHub
 </p>
 <p align="center">
-💬 Ask me about Python programming questions
+💬 Ask me about <strong>Python programming questions</strong>
 </p>
 <p align="center">
 📫 How to reach me: owen@owen.lol
