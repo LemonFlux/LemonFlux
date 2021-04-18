@@ -6,10 +6,10 @@
 🔭 I’m currently working on C#/Python Automation/Applications
 </p>
 <p align="center">
-🌱 I’m currently learning C#
+🌱 I’m currently learning 𝗖#
 </p>
 <p align="center">
-👯 I love to work with @LocalsGitHub
+👯 I love to work with @𝗟𝗼𝗰𝗮𝗹𝘀𝗚𝗶𝘁𝗛𝘂𝗯
 </p>
 <p align="center">
 💬 Ask me about Python programming questions
