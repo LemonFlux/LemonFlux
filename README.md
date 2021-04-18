@@ -3,15 +3,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lemonflux&label=Profile%20views&color=0e75b6&style=flat" alt="lemonflux" /> </p>
 
-- 🔭 I’m currently working on **C#/Python Automation/Applications**
+🔭 I’m currently working on **C#/Python Automation/Applications**
 
-- 🌱 I’m currently learning **C#**
+🌱 I’m currently learning **C#**
 
-- 👯 I love to work with **@LocalsGitHub**
+👯 I love to work with **@LocalsGitHub**
 
-- 💬 Ask me about **Python programming questions**
+💬 Ask me about **Python programming questions**
 
-- 📫 How to reach me **owen@owen.lol**
+📫 How to reach me: **owen@owen.lol**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
