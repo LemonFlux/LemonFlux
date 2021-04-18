@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lemon</h1>
-<h3 align="center">Just your average software developer/enthusiast programmer from 🏝️ California 🏝️</h3>
+<h3 align="center">Just your average software developer/enthusiast programmer from California 🏝️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemonflux&label=Profile%20views&color=0e75b6&style=flat" alt="lemonflux" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemonflux" alt="lemonflux" /></a> </p>
 
 - 🔭 I’m currently working on **C#/Python Automation/Applications**
 
