@@ -4,14 +4,18 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lemonflux&label=Profile%20views&color=0e75b6&style=flat" alt="lemonflux" /> </p>
 <p align="center">
 🔭 I’m currently working on C#/Python Automation/Applications
-
-🌱 I’m currently learning **C#**
-
-👯 I love to work with **@LocalsGitHub**
-
-💬 Ask me about **Python programming questions**
-
-📫 How to reach me: **owen@owen.lol**
+</p>
+<p align="center">
+🌱 I’m currently learning C#
+</p>
+<p align="center">
+👯 I love to work with @LocalsGitHub
+</p>
+<p align="center">
+💬 Ask me about Python programming questions
+</p>
+<p align="center">
+📫 How to reach me: owen@owen.lol
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
