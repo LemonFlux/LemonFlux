@@ -2,7 +2,7 @@
 <h3 align="center">Just your average software developer/enthusiast programmer from California 🏝️</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lemonflux&label=Profile%20views&color=0e75b6&style=flat" alt="lemonflux" /> </p>
-
+<p align="center">
 🔭 I’m currently working on **C#/Python Automation/Applications**
 
 🌱 I’m currently learning **C#**
